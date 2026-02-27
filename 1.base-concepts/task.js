@@ -20,7 +20,7 @@ function solveEquation(a, b, c) {
 	}
 }
 
-// ЗАДАЧА 22
+// ЗАДАЧА 2
 function calculateTotalMortgage(percent, contribution, amount, countMonths) {
 	percent = Number(percent);
 	contribution = Number(contribution);
